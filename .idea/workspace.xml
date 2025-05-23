@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e50d5c8b-2a97-4904-a796-112ba0494568" name="Changes" comment="" />
+    <list default="true" id="e50d5c8b-2a97-4904-a796-112ba0494568" name="Changes" comment="B00LYM0N">
+      <change beforePath="$PROJECT_DIR$/api/hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/greet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vercel.json" beforeDir="false" afterPath="$PROJECT_DIR$/vercel.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "richcoin666"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/richcoin666/testvercel",
+    "accountId": "ed8a419f-366f-49ea-86b2-1985f97b74d7"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
 }]]></component>
@@ -18,7 +46,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -37,6 +66,19 @@
       <option name="presentableId" value="Default" />
       <updated>1748022724056</updated>
     </task>
+    <task id="LOCAL-00001" summary="B00LYM0N">
+      <option name="closed" value="true" />
+      <created>1748022973211</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1748022973211</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="B00LYM0N" />
+    <option name="LAST_COMMIT_MESSAGE" value="B00LYM0N" />
   </component>
 </project>
